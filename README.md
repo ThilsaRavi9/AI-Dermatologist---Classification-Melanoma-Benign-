@@ -26,10 +26,10 @@ NumPy
 OpenCV (for image processing)
 You can install the required packages using pip.
 
-Download the Model
+**Download the Model**
 The pre-trained model can be downloaded from the Dropbox link below:
 
-
+https://www.dropbox.com/scl/fi/rzeb7u5ym4tnn2fcplnis/model.keras?rlkey=gpoyaf8te4h96aer3x9yk7bfr&st=8po7dsne&dl=0
 
 After downloading, place the model.keras file in your static directory.
 
